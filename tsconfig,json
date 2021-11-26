@@ -10,5 +10,8 @@
     "strict": true,
     "skipLibCheck": true
   },
-  "exclude": ["node_modules", ".vscode"]
+  "exclude": [
+    "node_modules",
+    ".vscode"
+  ]
 }
